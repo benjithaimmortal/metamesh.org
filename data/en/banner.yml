@@ -2,7 +2,7 @@
 enable: true
 title: Banner
 bg_image: images/backgrounds/bg-hero.png
-heading: Meta Mesh Wireless Communities
+heading: Meta Mesh Wireless Communities Tester
 subheading: We bridge the Digital Divide by building Community Wireless Networks
 button:
   enable: true
